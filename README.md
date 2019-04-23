@@ -42,7 +42,8 @@ THEN user should be able to view product information related to product searched
 AND user click on add to cart button
 THEN user verifies if the product is added to cart
  
-Scenario Outline: Validate if a registered user is able to place an order.
+Scenario Outline: 
+Validate if a registered user is able to place an order.
 	GIVEN user is logged onto the Amazon website as a registered user.
 	WHEN user logs in with <username> and <password>
 	THEN user should be able to view homepage.
