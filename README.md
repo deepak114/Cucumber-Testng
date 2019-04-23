@@ -1,0 +1,2 @@
+# Cucumber-Testng
+Cucumber is a test automation framework which leverages Behavior Driven Development for collaboration in between Business and IT teams. It empowers a user to define an application’s behavior in plain English language which makes it easier for non-programmers to understand the acceptance criteria. The core of cucumber has been developed in Ruby programming language however it supports all the majorly used programming languages for testing such as Java, C#, Python. In this repo, I will be demonstrating automation testing with Selenium, Cucumber and TestNG.
